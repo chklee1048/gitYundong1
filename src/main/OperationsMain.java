@@ -8,6 +8,6 @@ public class OperationsMain {
         
         // 나눗셈
         System.out.println(divide.divide(x, y)); 
-        System.out.println("test입니다");
+        System.out.println("test");
     }
 }
